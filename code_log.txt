@@ -1,0 +1,4 @@
+2024-Sep-08:12:31:09:Preliminaries complete. Initiating ETL process
+2024-Sep-08:12:31:12:Data extraction complete. Initiating Transformation process
+2024-Sep-08:12:31:12:Data transformation complete. Initiating loading process
+2024-Sep-08:12:31:12:Data saved to CSV file
