@@ -38,6 +38,7 @@ Load: The cleaned data is saved into a CSV file and an SQLite database for furth
 `extract(url, table_attributes)`
 
 Description: Extracts the largest banks' data from the given URL.
+
 Parameters:
 
 `url`: The webpage URL to scrape.
